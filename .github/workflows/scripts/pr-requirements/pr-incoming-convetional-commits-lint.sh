@@ -27,6 +27,11 @@ fi
 IFS=$'\/' read -r prId _ <<< $GITHUB_REF_NAME
 echo "prId $prId"
 
+# fetch more commits
+prCommits=`gh pr view $prId --json commits | jq '.commits | length'`
+fetchDepthToPrBase=`expr $prCommits + 2`
+git fetch --depth=$fetchDepthToPrBase
+
 # retrive the pr first commit
 prFirstCommitSha=`gh pr view $prId --json commits | jq -r '.commits | first | .oid'`
 echo "prFirstCommitSha: $prFirstCommitSha"
