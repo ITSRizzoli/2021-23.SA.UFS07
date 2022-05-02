@@ -11,5 +11,10 @@ jobs:
     name: "Label PRs when reviewed"
     runs-on: ubuntu-latest
     steps:
-      - name: "Do nothing. Only trigger corresponding workflow_run event"
-        run: echo
+      - name: "Create the trigger_envs.txt artifact"
+        run: env > trigger_envs.txt
+      - name: Upload the PR number
+        uses: actions/upload-artifact@v2
+        with:
+          name: trigger_envs
+          path: ./trigger_envs.txt
