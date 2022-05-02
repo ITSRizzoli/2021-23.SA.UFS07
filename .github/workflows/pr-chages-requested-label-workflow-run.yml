@@ -1,0 +1,29 @@
+name: Update labels to PR on new comment and review activity
+on:
+  workflow_run:
+    workflows: ["Label PRs when reviewed"]
+    types: ['requested']
+jobs:
+  pr-chages-requested-label-workflow-run:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      # https://github.com/cli/cli/issues/4631 :)
+      issues: write
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - name: "Get information about the current run"
+        uses: potiuk/get-workflow-origin@v1_1
+        id: source-run-info
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          sourceRunId: ${{ github.event.workflow_run.id }}
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+      - run: ./.github/workflows/scripts/pr-chages-requested-label.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_ID: ${{ steps.source-run-info.outputs.pullRequestNumber }}

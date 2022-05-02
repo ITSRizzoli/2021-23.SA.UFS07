@@ -27,9 +27,16 @@ then
     exit 1
 fi
 
-# retrieve pr id
-IFS=$'\/' read -r prId _ <<< $GITHUB_REF_NAME
-echo "prId $prId"
+if [ -z "${PR_ID}" ];
+then
+    echo "env PR_ID is empty"
+    # retrieve pr id
+    IFS=$'\/' read -r prId _ <<< $GITHUB_REF_NAME
+    echo "prId $prId"
+else
+    prId=$PR_ID
+fi
+
 
 ghApiGetReviews="$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/pulls/$prId/reviews"
 echo "ghApiGetReviews: $ghApiGetReviews"
