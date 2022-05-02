@@ -10,6 +10,17 @@ jobs:
     # in this way the GITHUB_TOKEN that's used by workflow_run will have PR write access
     name: "Label PRs when reviewed"
     runs-on: ubuntu-latest
+    outputs:
+      githubEventNumber: ${{steps.step1.outputs.githubEventNumber}}
+      githubEventPullRequestNumber: ${{github.step2.outputs.githubEventPullRequestNumber}}
     steps:
-      - name: "Do nothing. Only trigger corresponding workflow_run event"
-        run: echo
+      - name: "Do nothing. Only output PR id and trigger corresponding workflow_run event"
+        id: step1
+        run: echo "::set-output name=githubEventNumber::${_GITHUB_EVENT_NUMBER}"
+        env:
+          _GITHUB_EVENT_NUMBER: ${{github.event.number}}
+      - name: "Do nothing. Only output PR id and trigger corresponding workflow_run event"
+        id: step2
+        run: echo "::set-output name=githubEventPullRequestNumber::${_GITHUB_EVENT_PULL_REQUEST_NUMBER}"
+        env:
+          _GITHUB_EVENT_PULL_REQUEST_NUMBER: ${{github.event.pull_request.number}}
