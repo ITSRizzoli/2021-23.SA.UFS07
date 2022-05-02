@@ -1,7 +1,7 @@
 name: Update labels to PR on new comment and review activity
 on:
   workflow_run:
-    workflows: ["Label PRs when reviewed"]
+    workflows: ["Trigger workflow_run to update labels to PR on new comment and review activity"]
     types: ['requested']
 jobs:
   pr-chages-requested-label-workflow-run:
