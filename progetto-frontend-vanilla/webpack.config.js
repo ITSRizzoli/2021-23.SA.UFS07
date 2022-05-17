@@ -23,8 +23,17 @@ module.exports = {
         }
     },
     entry: "./js/index.js",
+    resolve: {
+        modules: [__dirname, "src", "node_modules"],
+        extensions: ["*", ".js", ".jsx", ".tsx", ".ts"],
+    },
     module: {
         rules: [
+            {
+                test: /\.jsx?$/,
+                exclude: /node_modules/,
+                loader: require.resolve("babel-loader"),
+            },
             {
                 test: /\.css$/,
                 use: [
