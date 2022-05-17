@@ -7,3 +7,5 @@ const App = () => (
         <Button label={"gasssss"} />
     </div>
 );
+
+export default App;
