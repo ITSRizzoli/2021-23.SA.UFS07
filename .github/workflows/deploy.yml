@@ -26,3 +26,12 @@ jobs:
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
         run: npx -yes surge ./dist voiceless-silk.surge.sh
+      - name: Download a single artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: design-system-${{github.ref_name}}-${{ github.sha }}
+          path: dist-npm
+      - name: List files in the repository
+        run: |
+          ls -la
+          ls -la dist-npm
