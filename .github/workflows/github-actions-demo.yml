@@ -55,7 +55,7 @@ jobs:
         with:
           name: ${{github.ref_name}}-${{ github.sha }}
           path: ./progetto-frontend-vanilla/dist/
-                - name: Build design system
+      - name: Build design system
         working-directory: design-system/react
         run: |
           npm run build
@@ -65,4 +65,3 @@ jobs:
         with:
           name: design-system-${{github.ref_name}}-${{ github.sha }}
           path: ./design-system/react/dist/
-      
