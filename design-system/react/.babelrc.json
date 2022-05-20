@@ -1,9 +1,15 @@
 {
+  "presets": [
+    [
+      "@babel/preset-react"
+    ]
+  ],
+  
   "env": {
     "production":{
 
     },
-    
+
     "development": {
       "sourceType": "unambiguous",
       "presets": [
