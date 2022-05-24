@@ -8,3 +8,9 @@ https://docs.google.com/presentation/d/1QqwNipkTa8deCzmOTrPYb5p2lQmTewyDnc367zyI
 
 ## jimwellf's URL
 http://overrated-amount.surge.sh
+
+## NPM install to setup a simple react app
+
+`npm install react react-dom`
+
+`npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader`
