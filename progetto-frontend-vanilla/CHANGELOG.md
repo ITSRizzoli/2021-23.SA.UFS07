@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.9](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.6.8...v1.6.9) (2022-05-24)
+
+
+### Bug Fixes
+
+* design system package.json ([1103664](https://github.com/jimwellf/2021-23.SA.UFS07/commit/11036644ed8c2cf569f901cd549d7a0d774545ba))
+
 ### [1.6.8](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.6.7...v1.6.8) (2022-05-24)
 
 
