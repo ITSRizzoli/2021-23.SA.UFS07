@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/jimwellf/2021-23.SA.UFS07/compare/ds1.1.0...ds1.1.1) (2022-05-24)
+
+
+### Bug Fixes
+
+* package.json file ([36afdb1](https://github.com/jimwellf/2021-23.SA.UFS07/commit/36afdb1c8b4e695627c962bbc43a8afa03b0d042))
+
 ## 1.1.0 (2022-05-24)
 
 
