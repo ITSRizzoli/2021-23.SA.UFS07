@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.10](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.6.9...v1.6.10) (2022-05-24)
+
+
+### Bug Fixes
+
+* package.json file ([c4ef9c3](https://github.com/jimwellf/2021-23.SA.UFS07/commit/c4ef9c3b0caa3258861c4c153f96869f73513e54))
+* package.json file ([36afdb1](https://github.com/jimwellf/2021-23.SA.UFS07/commit/36afdb1c8b4e695627c962bbc43a8afa03b0d042))
+
 ### [1.6.9](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.6.8...v1.6.9) (2022-05-24)
 
 
