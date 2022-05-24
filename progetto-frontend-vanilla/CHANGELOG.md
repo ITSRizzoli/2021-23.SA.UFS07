@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.2](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.6.1...v1.6.2) (2022-05-24)
+
+
+### Bug Fixes
+
+* button import ([15f6e8e](https://github.com/jimwellf/2021-23.SA.UFS07/commit/15f6e8ea60c04907edf1f7819c6c0905774c2c51))
+
 ### [1.6.1](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.6.0...v1.6.1) (2022-05-24)
 
 ## 1.6.0 (2022-05-24)
