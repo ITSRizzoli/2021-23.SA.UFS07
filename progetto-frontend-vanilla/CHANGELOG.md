@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.6.10...v1.7.0) (2022-05-24)
+
+
+### Features
+
+* **components-pipeline-4:** add webpack setup ([009dbfd](https://github.com/jimwellf/2021-23.SA.UFS07/commit/009dbfd74e04afcbcf888b315dbcd52c4b2c2c80))
+
+
+### Bug Fixes
+
+* readme ([18a0b99](https://github.com/jimwellf/2021-23.SA.UFS07/commit/18a0b999ac6f15fad29e147b26bad68dcd16a027))
+
 ### [1.6.10](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.6.9...v1.6.10) (2022-05-24)
 
 
