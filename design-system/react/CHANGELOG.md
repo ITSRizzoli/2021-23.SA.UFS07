@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/1.0.0...1.1.0) (2022-05-24)
+
+
+### Features
+
+* added my npm library ([371d6d6](https://github.com/jimwellf/2021-23.SA.UFS07/commit/371d6d6e2c7b690d83057111c1310655c3b19197))
+
 ## 1.0.0 (2022-05-20)
 
 
