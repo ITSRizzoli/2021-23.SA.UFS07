@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/ds1.1.0...ds1.2.0) (2022-05-27)
+
+
+### Features
+
+* aligned ([4d770f7](https://github.com/Marcaaa92/2021-23.SA.UFS07/commit/4d770f7bb3614943b10a4263390b91f3ec87d915))
+
+
+### Bug Fixes
+
+* changed name ([0b533ce](https://github.com/Marcaaa92/2021-23.SA.UFS07/commit/0b533ce671bce1d149e6fa83b0a1675d3c9a4c2f))
+
 ## 1.1.0 (2022-05-27)
 
 
