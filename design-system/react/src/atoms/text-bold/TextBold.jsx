@@ -11,5 +11,4 @@ TextBold.propTypes = {
 };
 
 TextBold.defaultProps = {
-  //onData: undefined,
 };

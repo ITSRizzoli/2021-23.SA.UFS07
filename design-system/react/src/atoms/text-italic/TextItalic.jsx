@@ -11,5 +11,4 @@ TextItalic.propTypes = {
 };
 
 TextItalic.defaultProps = {
-  //onData: undefined,
 };

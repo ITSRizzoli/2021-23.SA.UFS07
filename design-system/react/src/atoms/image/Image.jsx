@@ -11,5 +11,4 @@ Image.propTypes = {
 };
 
 Image.defaultProps = {
-  //onData: undefined,
 };
