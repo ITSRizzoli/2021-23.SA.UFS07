@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.9.0...v1.10.0) (2022-05-27)
+
+
+### Features
+
+* added elements on storybook ([41ef7d0](https://github.com/jimwellf/2021-23.SA.UFS07/commit/41ef7d06b1480a2731b39f452d34ef71a053687e))
+* image story ([b898b3b](https://github.com/jimwellf/2021-23.SA.UFS07/commit/b898b3bcff23f8c74343399d9b563f3a5b5368df))
+
+
+### Bug Fixes
+
+* removed test script on package.json ([6285d94](https://github.com/jimwellf/2021-23.SA.UFS07/commit/6285d942d9fff954f550594a069f0273828dc5e3))
+
 ## [1.9.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.8.0...v1.9.0) (2022-05-27)
 
 
