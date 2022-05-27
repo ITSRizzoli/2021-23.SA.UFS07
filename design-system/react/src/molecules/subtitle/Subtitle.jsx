@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import { Text } from '../../atoms/text/Text';
-import { TextBold } from '../../atoms/textBold/TextBold';
-import { TextItalic } from '../../atoms/text/TextItalic';
+import { TextBold } from '../../atoms/text-bold/TextBold';
+import { TextItalic } from '../../atoms/text-italic/TextItalic';
 
 
 export const Subtitle = ({ text }) => {
@@ -12,7 +12,7 @@ export const Subtitle = ({ text }) => {
 };
 
 Subtitle.propTypes = {
-  text: Text
+  text: [ Text, TextBold, TextItalic]
 };
 
 Subtitle.defaultProps = {

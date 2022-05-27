@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { Paragraph } from '../../atoms/paragraph/Paragraph';
+import { Paragraph } from '../../molecules/paragraph/Paragraph';
 
 export const TextList = ({ text }) => {
   return ( <ul> <li></li></ul>
