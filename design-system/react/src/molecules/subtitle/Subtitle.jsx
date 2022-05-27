@@ -16,5 +16,4 @@ Subtitle.propTypes = {
 };
 
 Subtitle.defaultProps = {
-  //onSubmit: undefined,
 };
