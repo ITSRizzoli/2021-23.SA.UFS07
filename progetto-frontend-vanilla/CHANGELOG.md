@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.7.0...v1.8.0) (2022-05-27)
+
+
+### Features
+
+* added atoms elements ([dd1883a](https://github.com/jimwellf/2021-23.SA.UFS07/commit/dd1883abcd045504fd9e92adb8928fac6ab01672))
+
+
+### Bug Fixes
+
+* removed header.css ([c44e9c5](https://github.com/jimwellf/2021-23.SA.UFS07/commit/c44e9c54f0c129e851fe53d09ecf99f2fee079e0))
+
 ## [1.7.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.6.10...v1.7.0) (2022-05-24)
 
 
