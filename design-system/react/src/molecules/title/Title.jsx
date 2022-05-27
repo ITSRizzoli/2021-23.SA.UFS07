@@ -7,7 +7,7 @@ import { TextItalic } from '../../atoms/text/TextItalic';
 
 
 export const Title = ({ text }) => {
-  return ( <Text />
+  return ( <h1> {text} </h1>
   );
 };
 
@@ -16,5 +16,4 @@ Title.propTypes = {
 };
 
 Title.defaultProps = {
-  //onSubmit: undefined,
 };

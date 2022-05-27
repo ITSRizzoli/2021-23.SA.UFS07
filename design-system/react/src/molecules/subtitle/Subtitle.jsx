@@ -7,12 +7,12 @@ import { TextItalic } from '../../atoms/text/TextItalic';
 
 
 export const Subtitle = ({ text }) => {
-  return ( <><Text /> <TextBold /> <TextItalic /></>
+  return ( <h2>{text}</h2>
   );
 };
 
 Subtitle.propTypes = {
-  text: PropTypes.string.isRequired,
+  text: Text
 };
 
 Subtitle.defaultProps = {

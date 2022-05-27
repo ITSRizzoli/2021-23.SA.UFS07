@@ -12,7 +12,7 @@ export const Paragraph = ({ text }) => {
 };
 
 Paragraph.propTypes = {
-  text: PropTypes.string.isRequired,
+  text: Text, TextBold, TextItalic
 };
 
 Paragraph.defaultProps = {
