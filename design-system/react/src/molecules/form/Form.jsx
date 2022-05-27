@@ -12,7 +12,7 @@ export const Form = ( onSubmit ) => {
 
 Form.propTypes = {
   inputs: Input,
-  onSubmit: func,
+  onSubmit: PropTypes.func.isRequired,
   submit: Button,
   reset: Button
 };
