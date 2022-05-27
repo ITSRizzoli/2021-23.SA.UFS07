@@ -11,5 +11,4 @@ Text.propTypes = {
 };
 
 Text.defaultProps = {
-  //onData: undefined,
 };
