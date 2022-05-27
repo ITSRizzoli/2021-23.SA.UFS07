@@ -5,13 +5,16 @@ import { Input } from '../../atoms/input/Input';
 import { Button } from '../../atoms/button/Button';
 
 
-export const Form = ({ onSubmit }) => {
-  return ( <> <div> <Input /> </div><div> <Button /> </div></>
+export const Form = ( onSubmit ) => {
+  return ( <form> </form>
   );
 };
 
 Form.propTypes = {
-  onSubmit: PropTypes.func.isRequired
+  inputs: Input,
+  onSubmit: func,
+  submit: Button,
+  reset: Button
 };
 
 Form.defaultProps = {
