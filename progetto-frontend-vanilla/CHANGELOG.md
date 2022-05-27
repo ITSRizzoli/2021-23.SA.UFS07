@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.8.0...v1.9.0) (2022-05-27)
+
+
+### Features
+
+* added molecules elements ([fed83d1](https://github.com/jimwellf/2021-23.SA.UFS07/commit/fed83d109ee4a36c5caab24ee961d9f40ea88844))
+
+
+### Bug Fixes
+
+* design system elements ([712d581](https://github.com/jimwellf/2021-23.SA.UFS07/commit/712d581a56c9ea45892d5ed20404a09fcc5486b3))
+* edited atoms and molecules elements ([7a89435](https://github.com/jimwellf/2021-23.SA.UFS07/commit/7a89435bf851f86d2abc42d52088f2d56bf8bf22))
+* edited atoms files ([241760f](https://github.com/jimwellf/2021-23.SA.UFS07/commit/241760f98b9ca3bbd3034fa338c6a758124b3c47))
+
 ## [1.8.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.7.0...v1.8.0) (2022-05-27)
 
 
