@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.1](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/ds1.8.0...ds2.8.1) (2022-05-31)
+
+
+### Bug Fixes
+
+* fixed publishing ([ab46796](https://github.com/Marcaaa92/2021-23.SA.UFS07/commit/ab46796261df3acdbcd7931f580091247a98f6cf))
+
 ## [1.8.0](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/ds1.7.0...ds1.8.0) (2022-05-31)
 
 
