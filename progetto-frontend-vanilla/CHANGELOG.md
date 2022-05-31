@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/ds1.7.0...ds1.8.0) (2022-05-31)
+
+
+### Features
+
+* added a test string ([70da519](https://github.com/Marcaaa92/2021-23.SA.UFS07/commit/70da5195e91d51ecc151da05cad7be322813befe))
+
 ## 1.7.0 (2022-05-31)
 
 
