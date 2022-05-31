@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.3](https://github.com/DaniAvolio/2021-23.SA.UFS07/compare/v1.6.2...v1.6.3) (2022-05-31)
+
+
+### Bug Fixes
+
+* adding git -- in release design system ([844cdca](https://github.com/DaniAvolio/2021-23.SA.UFS07/commit/844cdca06ef729a319234846aa8e6fc4032053e5))
+* fixing ([176a480](https://github.com/DaniAvolio/2021-23.SA.UFS07/commit/176a480511611d66741ca270137a1e21ab56a56e))
+
 ### [1.6.2](https://github.com/DaniAvolio/2021-23.SA.UFS07/compare/v1.6.1...v1.6.2) (2022-05-31)
 
 ### [1.6.1](https://github.com/DaniAvolio/2021-23.SA.UFS07/compare/v1.6.0...v1.6.1) (2022-05-31)
