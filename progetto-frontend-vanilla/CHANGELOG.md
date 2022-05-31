@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://github.com/hCri02/2021-23.SA.UFS07/compare/v1.6.0...v1.6.1) (2022-05-31)
+
+
+### Bug Fixes
+
+* release ([bf5b522](https://github.com/hCri02/2021-23.SA.UFS07/commit/bf5b5224e879309a8c537050c1ef08a958f7c8e7))
+
 ## 1.6.0 (2022-05-31)
 
 
