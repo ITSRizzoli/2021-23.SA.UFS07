@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.2](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.10.1...v1.10.2) (2022-05-31)
+
+
+### Bug Fixes
+
+* edited paragraph item ([dcffdf9](https://github.com/jimwellf/2021-23.SA.UFS07/commit/dcffdf936eea84da3c48d37d85a8835cca98a33d))
+
 ### [1.10.1](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.10.0...v1.10.1) (2022-05-27)
 
 ## [1.10.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.9.0...v1.10.0) (2022-05-27)
