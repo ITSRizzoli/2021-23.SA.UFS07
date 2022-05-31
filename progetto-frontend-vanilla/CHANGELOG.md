@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.9.1](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/v2.9.0...v2.9.1) (2022-05-31)
+
+
+### Bug Fixes
+
+* fixed automation ([a7e6759](https://github.com/Marcaaa92/2021-23.SA.UFS07/commit/a7e6759a2c6df5583d92aea51844b9bfcdad73f2))
+
 ## [2.9.0](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/v1.6.0...v2.9.0) (2022-05-31)
 
 
