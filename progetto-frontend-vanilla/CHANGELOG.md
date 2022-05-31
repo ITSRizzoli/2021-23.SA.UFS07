@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/AstrallTrinity/2021-23.SA.UFS07/compare/v1.6.0...v1.7.0) (2022-05-31)
+
+
+### Features
+
+* insert follow tag ([b708e31](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/b708e319f638470e82f00bad50618cb1bae92b9d))
+* insert inaction demo package version ([ee693c8](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/ee693c899e5f8b4807521377fa9f40453c1bc4f2))
+* insert webpack title ([8bbc127](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/8bbc127e390b49a516f7082ab8afc20b32babc22))
+
 ## 1.6.0 (2022-05-31)
 
 
