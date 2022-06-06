@@ -6,8 +6,13 @@ import PropTypes from 'prop-types';
  */
 export const Input = ({ placeholder, onData, type }) => {
     function onInput(InputEvent){
-        
+
         console.log('Input.onInput', InputEvent);
+        
+        if (typeof onData === 'function'){
+            onData(InputEvent.target.value);
+
+        }
     }
   return (
     <input
@@ -26,7 +31,7 @@ Input.propTypes = {
 
   onData: PropTypes.func,
 
-  isValid: PropTypes.bool.isRequired,
+  isValid: PropTypes.bool,
 
   type: PropTypes.string,
 };
