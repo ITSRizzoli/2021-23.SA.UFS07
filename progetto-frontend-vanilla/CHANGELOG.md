@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.11.2](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.11.1...v1.11.2) (2022-06-06)
+
+
+### Bug Fixes
+
+* add git push --follow-tags origin master ([2dcfcab](https://github.com/jimwellf/2021-23.SA.UFS07/commit/2dcfcab5587913f8b2a4429d3e39c44ee1546f4c))
+* add title ([184f3a8](https://github.com/jimwellf/2021-23.SA.UFS07/commit/184f3a86890e13409037ca0fde494e2d95029a55))
+* add title ([1a39e76](https://github.com/jimwellf/2021-23.SA.UFS07/commit/1a39e764bf90223615f15ce608e1df6ac56930d1))
+
 ### [1.11.1](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.11.0...v1.11.1) (2022-06-06)
 
 
