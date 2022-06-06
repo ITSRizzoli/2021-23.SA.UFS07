@@ -8,7 +8,7 @@ export const Button = ({ label, onClick, type }) => {
   return (
     <button
       onClick={onClick}
-      type="button"
+      type={type}
     >
       {label}
     </button>
