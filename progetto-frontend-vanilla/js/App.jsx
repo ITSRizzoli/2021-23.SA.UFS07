@@ -3,8 +3,8 @@ import {Button} from "fulgencio-react/umd/atoms/button/Button"
 
 const App = () => ( 
     <div>
-        <h1>Hello React</h1>
-        <Button label={"gasssss"} />
+        <h1>Kosmos</h1>
+        <Button label={"Sign up"} />
     </div>
 );
 
