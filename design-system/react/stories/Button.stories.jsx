@@ -15,12 +15,12 @@ export default {
 // More on component templates: https://storybook.js.org/docs/react/writing-stories/introduction#using-args
 const Template = (args) => <Button {...args} />;
 
-export const Reset = Template.bind({});
+export const Buttom = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
-Reset.args = {
+Buttom.args = {
   primary: true,
   label: 'Button',
-  type: 'reset',
+  type: 'buttton',
 };
 
 export const Submit = Template.bind({});
@@ -29,14 +29,8 @@ Submit.args = {
   type: 'submit',
 };
 
-export const Reset1 = Template.bind({});
-Reset1.args = {
+export const Reset = Template.bind({});
+Reset.args = {
   label: 'Button',
   type: 'reset',
-};
-
-export const Submit1 = Template.bind({});
-Submit1.args = {
-  label: 'Button',
-  type: 'submit',
 };
