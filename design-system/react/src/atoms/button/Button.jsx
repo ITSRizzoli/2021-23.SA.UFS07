@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 /**
  * Primary UI component for user interaction
  */
-export const Button = ({ label, onClick }) => {
+export const Button = ({ label, onClick, type }) => {
   return (
     <button
       onClick={onClick}
