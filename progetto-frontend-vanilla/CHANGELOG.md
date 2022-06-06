@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.2](https://github.com/AstrallTrinity/2021-23.SA.UFS07/compare/v1.8.1...v1.8.2) (2022-06-06)
+
+
+### Bug Fixes
+
+* insert export ([1928f24](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/1928f245a00c909f2c39d2a9a97c9ffd0a905ee6))
+
 ### [1.8.1](https://github.com/AstrallTrinity/2021-23.SA.UFS07/compare/v1.8.0...v1.8.1) (2022-06-06)
 
 ## [1.8.0](https://github.com/AstrallTrinity/2021-23.SA.UFS07/compare/v1.7.0...v1.8.0) (2022-05-31)
