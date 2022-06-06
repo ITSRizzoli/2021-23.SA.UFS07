@@ -24,6 +24,8 @@ Button.propTypes = {
    * Optional click handler
    */
   onClick: PropTypes.func,
+
+  type: PropTypes.string,
 };
 
 Button.defaultProps = {
