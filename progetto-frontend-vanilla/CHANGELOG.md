@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/GabZulo/2021-23.SA.UFS07/compare/v1.7.3...v1.8.0) (2022-06-06)
+
+
+### Features
+
+* button create ([ed1bfec](https://github.com/GabZulo/2021-23.SA.UFS07/commit/ed1bfec4998038bc9f85c7fc5a9ebf7acfec2beb))
+
+
+### Bug Fixes
+
+* created and updated app ([b383a47](https://github.com/GabZulo/2021-23.SA.UFS07/commit/b383a4701210c089ae9ad78cde9b15e6f00416dd))
+
 ### [1.7.3](https://github.com/GabZulo/2021-23.SA.UFS07/compare/v1.7.2...v1.7.3) (2022-06-06)
 
 ### [1.7.2](https://github.com/GabZulo/2021-23.SA.UFS07/compare/v1.7.1...v1.7.2) (2022-06-06)
