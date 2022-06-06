@@ -7,12 +7,14 @@ export const Button = ({ label, onClick, type }) => {
   );
 };
 
+// what types of parameters it accepts.
 Button.propTypes = {
   label: PropTypes.string.isRequired,
   onClick: PropTypes.func,
-  type: PropTypes.string.isRequired,
+  type: PropTypes.string,
 };
 
 Button.defaultProps = {
   onClick: undefined,
+  type: 'button',
 };
