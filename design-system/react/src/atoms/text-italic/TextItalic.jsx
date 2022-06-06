@@ -11,4 +11,5 @@ TextItalic.propTypes = {
 };
 
 TextItalic.defaultProps = {
+  text: 'Insert text',
 };

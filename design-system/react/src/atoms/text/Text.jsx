@@ -11,4 +11,5 @@ Text.propTypes = {
 };
 
 Text.defaultProps = {
+  text: 'Insert text',
 };

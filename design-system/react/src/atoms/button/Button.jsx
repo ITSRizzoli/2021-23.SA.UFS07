@@ -3,7 +3,10 @@ import PropTypes from 'prop-types';
 
 export const Button = ({ label, onClick, type }) => {
   return (
-    <button onClick={onClick} type={type}> {label} </button>
+    <button
+      onClick={onClick}
+      type={type}> {label}
+    </button>
   );
 };
 
@@ -16,5 +19,5 @@ Button.propTypes = {
 
 Button.defaultProps = {
   onClick: undefined,
-  type: 'button',
+  type: 'button'
 };

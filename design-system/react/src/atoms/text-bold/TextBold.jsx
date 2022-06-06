@@ -11,4 +11,5 @@ TextBold.propTypes = {
 };
 
 TextBold.defaultProps = {
+  text: 'Insert text',
 };
