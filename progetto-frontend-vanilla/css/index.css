@@ -1,4 +1,6 @@
 body {
+    display: flex;
+    justify-content: center;
     background-color: rgb(255, 255, 255);
 }
 
@@ -8,6 +10,7 @@ h1 {
 
 img {
     border-radius: 20px;
-    height: 10em;
+    box-shadow: 5em rgba(0, 0, 0, 0.2);
+    height: 50em;
     width: auto;
 }

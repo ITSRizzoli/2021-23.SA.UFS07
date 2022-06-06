@@ -6,7 +6,10 @@ const App = () => (
     <div>
         <h1>Kosmos</h1>
         <Button label={"Sign up"} />
+        <div>
         <img src={azuki} alt="Azuki #5558"/>
+        </div>
+  
     </div>
 );
 
