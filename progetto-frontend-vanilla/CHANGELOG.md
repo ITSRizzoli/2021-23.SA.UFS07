@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/GabZulo/2021-23.SA.UFS07/compare/v1.6.0...v1.7.0) (2022-06-06)
+
+
+### Features
+
+* export added ([f8c118d](https://github.com/GabZulo/2021-23.SA.UFS07/commit/f8c118da4a62c2381c2b6cfa740153b289712f10))
+* json change react ([41e18b3](https://github.com/GabZulo/2021-23.SA.UFS07/commit/41e18b34166aa8f0058d6288a27dfccdd318b6a5))
+
 ## 1.6.0 (2022-05-31)
 
 
