@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.12.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.11.7...v1.12.0) (2022-06-06)
+
+
+### Features
+
+* add elements ([08de5f9](https://github.com/jimwellf/2021-23.SA.UFS07/commit/08de5f97981d4975bce922ac918a95702edc7348))
+* button element ([0c7dae1](https://github.com/jimwellf/2021-23.SA.UFS07/commit/0c7dae17765d61162cb13f31bc9c5eeeb942c4ca))
+
+
+### Bug Fixes
+
+* edit button props ([31785c0](https://github.com/jimwellf/2021-23.SA.UFS07/commit/31785c01669637ad68bf4c801afbbf04cc81b30d))
+
 ### [1.11.7](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.11.6...v1.11.7) (2022-06-06)
 
 
