@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 export const Button = ({ label, onClick, type }) => {
   return (
-    <button onClick={onClick} type="button"> {label} </button>
+    <button onClick={onClick} type={type}> {label} </button>
   );
 };
 
