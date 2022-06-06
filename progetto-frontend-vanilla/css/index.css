@@ -5,3 +5,9 @@ body {
 h1 {
     color: rgb(27, 27, 27);
 }
+
+img {
+    border-radius: 20px;
+    height: 10em;
+    width: auto;
+}
