@@ -11,14 +11,18 @@ export const Input = ({ placeholder, onData, isValid, type }) => {
       onData(InputEvent.target.value);
       }
   }
+
+  const message = isValid ? "Valore corretto" : "Valore Errato"
   return (
+    <>
     <input
       placeholder={placeholder}
       onInput={onInput}
-      isValid={isValid}
       type={type}
     >
     </input>
+    {isValid === undefined ? null : message}
+    </>
   );
 };
 
