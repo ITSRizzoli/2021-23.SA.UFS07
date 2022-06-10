@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/GabZulo/2021-23.SA.UFS07/compare/ds1.4.0...ds1.5.0) (2022-06-10)
+
+
+### Features
+
+* button create ([ed1bfec](https://github.com/GabZulo/2021-23.SA.UFS07/commit/ed1bfec4998038bc9f85c7fc5a9ebf7acfec2beb))
+* export added ([f8c118d](https://github.com/GabZulo/2021-23.SA.UFS07/commit/f8c118da4a62c2381c2b6cfa740153b289712f10))
+* input created ([c3b5a9e](https://github.com/GabZulo/2021-23.SA.UFS07/commit/c3b5a9e8605fd6218e3b41dbb015f5b584e60ba5))
+* type buttons created ([b43e24b](https://github.com/GabZulo/2021-23.SA.UFS07/commit/b43e24b38358ac09d5dc64fd9d4a930346663786))
+
+
+### Bug Fixes
+
+* change versions ([7ca8793](https://github.com/GabZulo/2021-23.SA.UFS07/commit/7ca87931744150f8e65efdf8351331c0caf89b38))
+* created and updated app ([b383a47](https://github.com/GabZulo/2021-23.SA.UFS07/commit/b383a4701210c089ae9ad78cde9b15e6f00416dd))
+* radio added ([545c445](https://github.com/GabZulo/2021-23.SA.UFS07/commit/545c4456785fc0d97e4ba00f230f61a2db21b44d))
+
 ## 1.4.0 (2022-05-31)
 
 
