@@ -12,11 +12,7 @@ export default {
   },
 };
 
-const Template = (args) => <Paragraph {...args}>
-  <Text text={"Text"} />
-  <TextBold text={"Text Bold"} /> 
-  <TextItalic text={"Text Italic"} />
-  </Paragraph>;
+const Template = (args) => <Paragraph {...args} />
 
 export const Primary = Template.bind({});
 Primary.args = {

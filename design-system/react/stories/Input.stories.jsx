@@ -97,9 +97,11 @@ Password.args = {
 
 export const Radio = Template.bind({});
 Radio.args = {
-  placeholder: 'Insert radio text',
+  placeholder: undefined,
   type: 'radio',
   onData: undefined,
+  id: 'radio1',
+  label: 'label'
 };
 
 export const Range = Template.bind({});

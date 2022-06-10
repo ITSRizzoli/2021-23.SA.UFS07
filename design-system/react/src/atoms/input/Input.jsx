@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-export const Input = ({ placeholder, onData, isValid, type }) => {
+export const Input = ({ id, placeholder, onData, isValid, type, label}) => {
 
   function onInput(e) {
     console.log("input.onInput", e);
@@ -14,27 +14,37 @@ export const Input = ({ placeholder, onData, isValid, type }) => {
 
   return (
     <>
-      <input
+
+      <input id = {id}
         placeholder = {placeholder}
         onInput = {onInput}
         type = {type}
       >
       </input>
+
+      <label htmlFor={id}> {label === undefined ? null : <label htmlFor={id}> {label} </label>} </label>
       
       {isValid === undefined ? null : message }
+
     </>
   );
 };
 
 Input.propTypes = {
-  placeholder: PropTypes.string.isRequired,
+  id: PropTypes.string.isRequired,
+  placeholder: PropTypes.string,
   onData: PropTypes.func,
-  isValid: PropTypes.bool.isRequired,
+  isValid: PropTypes.bool,
   type: PropTypes.string,
+  label: PropTypes.string,
+
 };
 
 Input.defaultProps = {
+  id: "1",
+  placeholder: undefined,
   type: 'text',
   onData: undefined,
-  isValid: false,
+  isValid: undefined,
+  label: undefined,
 };
