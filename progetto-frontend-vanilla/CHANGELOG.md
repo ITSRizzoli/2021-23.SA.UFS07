@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/AstrallTrinity/2021-23.SA.UFS07/compare/v1.8.2...v1.9.0) (2022-06-10)
+
+
+### Features
+
+* change ([ce17349](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/ce17349a52bd7edbedecb91b29ebd14b67949a1e))
+* insert input ([706263c](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/706263cfa0c09e8d0fb617f56fb172ce8cac8b15))
+* insert type ([6c68bb8](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/6c68bb83d7d52506453c0b4391424e23fdaa9e7b))
+* insert type button ([ecd9618](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/ecd9618e90c44635a95e1f66ab21400a3528841a))
+
+
+### Bug Fixes
+
+* change version ([3865b11](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/3865b11d5cacc0641569098e13176aeb8eb368df))
+* input ([19c165a](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/19c165a520176d5cdf29efdba4d5d019b358a54f))
+
 ### [1.8.2](https://github.com/AstrallTrinity/2021-23.SA.UFS07/compare/v1.8.1...v1.8.2) (2022-06-06)
 
 
