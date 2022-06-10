@@ -72,4 +72,3 @@ jobs:
         with:
           name: design-system-${{github.ref_name}}-${{ github.sha }}
           path: ./design-system/react/dist/
-      
