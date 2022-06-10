@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.13.6](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.13.5...v1.13.6) (2022-06-10)
+
+
+### Bug Fixes
+
+* input works ([fda75e0](https://github.com/jimwellf/2021-23.SA.UFS07/commit/fda75e03f5acea0a7232fc322777d0024f1c4873))
+* radio ([2af51e5](https://github.com/jimwellf/2021-23.SA.UFS07/commit/2af51e5f19e2eca2450987438af9dd563941e891))
+
 ### [1.13.5](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.13.4...v1.13.5) (2022-06-10)
 
 ### [1.13.4](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.13.3...v1.13.4) (2022-06-10)
