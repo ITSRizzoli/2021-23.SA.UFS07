@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.12.2](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.12.1...v1.12.2) (2022-06-10)
+
+
+### Bug Fixes
+
+* add input on app ([f7c6da6](https://github.com/jimwellf/2021-23.SA.UFS07/commit/f7c6da624c326966472753a15c5cca72cb7435d7))
+
 ### [1.12.1](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.12.0...v1.12.1) (2022-06-10)
 
 ## [1.12.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.11.7...v1.12.0) (2022-06-06)
