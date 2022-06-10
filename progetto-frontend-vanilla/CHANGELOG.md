@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.12.4](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.12.3...v1.12.4) (2022-06-10)
+
+
+### Bug Fixes
+
+* images and textbold ([ff320f5](https://github.com/jimwellf/2021-23.SA.UFS07/commit/ff320f5591060d8da3a616c6a4a69ec183f92634))
+
 ### [1.12.3](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.12.2...v1.12.3) (2022-06-10)
 
 
