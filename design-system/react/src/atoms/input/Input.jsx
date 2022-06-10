@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 /**
  * Primary UI component for user interaction
  */
-export const Input = ({ placeholder, onData, type }) => {
+export const Input = ({ placeholder, onData, type, isValid }) => {
     function onInput(InputEvent){
 
         console.log('Input.onInput', InputEvent);
@@ -14,14 +14,19 @@ export const Input = ({ placeholder, onData, type }) => {
 
         }
     }
-  return (
-    <input
+
+  const message = isValid ? 'valore corretto' : 'valore non corretto'
+  
+    return (
+    <>
+      <input
       onInput={onInput}
       type={type}
       placeholder={placeholder}
-    >
-      
+    >   
     </input>
+    {isValid === undefined ? null : message}
+    </>
   );
 };
 
