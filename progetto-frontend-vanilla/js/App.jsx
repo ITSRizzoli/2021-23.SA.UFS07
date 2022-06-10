@@ -1,14 +1,12 @@
 import React from "react";
 import azuki from "../img/azuki.png"
-import {Button} from "fulgencio-react/atoms/button/Button"
 import {TextBold} from "fulgencio-react/atoms/text-bold/TextBold"
-import {Input} from "fulgencio-react/atoms/input/Input"
+import {Image} from "fulgencio-react/atoms/image/Image"
 
 const App = () => ( 
     <div>
-        <TextBold text="Kosmos" />
+        <TextBold text={"Kosmos"} />
         <Image src={azuki} alt="Azuki #5558" />
-  
     </div>
 );
 
