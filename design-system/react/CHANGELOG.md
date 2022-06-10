@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/ds1.2.3...ds1.3.0) (2022-06-10)
+
+
+### Features
+
+* package.json ([a881b66](https://github.com/jimwellf/2021-23.SA.UFS07/commit/a881b66cbb9d63383b4a1ef04744d5382a5ff89c))
+
+
+### Bug Fixes
+
+* add input on app ([f7c6da6](https://github.com/jimwellf/2021-23.SA.UFS07/commit/f7c6da624c326966472753a15c5cca72cb7435d7))
+* edit app ([7ecc205](https://github.com/jimwellf/2021-23.SA.UFS07/commit/7ecc2052a7c0dca07d667fc691ba388cc2faf404))
+* elements ([0f6b735](https://github.com/jimwellf/2021-23.SA.UFS07/commit/0f6b73548d52dd5580d7d0e66b2e86888652623a))
+* elements ([4025eec](https://github.com/jimwellf/2021-23.SA.UFS07/commit/4025eec75f8da04d7baa738767749a138844577a))
+* images and textbold ([ff320f5](https://github.com/jimwellf/2021-23.SA.UFS07/commit/ff320f5591060d8da3a616c6a4a69ec183f92634))
+* input works ([fda75e0](https://github.com/jimwellf/2021-23.SA.UFS07/commit/fda75e03f5acea0a7232fc322777d0024f1c4873))
+* radio ([2af51e5](https://github.com/jimwellf/2021-23.SA.UFS07/commit/2af51e5f19e2eca2450987438af9dd563941e891))
+* title ([16c78d8](https://github.com/jimwellf/2021-23.SA.UFS07/commit/16c78d8279a71652e8089e1836ffcbcc0df0cb6b))
+* title ([a6d3150](https://github.com/jimwellf/2021-23.SA.UFS07/commit/a6d3150a3a30ecaa8a6ccd1e36add6e3646e7f90))
+* title ([7d8db6e](https://github.com/jimwellf/2021-23.SA.UFS07/commit/7d8db6efb5644a101269d55403cfaa1d67fcd434))
+* title story ([1458d36](https://github.com/jimwellf/2021-23.SA.UFS07/commit/1458d368002bb7b90d9757b45419c4772b253138))
+* update nvm version ([a408513](https://github.com/jimwellf/2021-23.SA.UFS07/commit/a4085131d49a0bd74bcc2d91a55570993726c9ef))
+
 ### [1.2.3](https://github.com/jimwellf/2021-23.SA.UFS07/compare/ds1.2.2...ds1.2.3) (2022-06-06)
 
 ### [1.2.2](https://github.com/jimwellf/2021-23.SA.UFS07/compare/ds1.2.1...ds1.2.2) (2022-06-06)
