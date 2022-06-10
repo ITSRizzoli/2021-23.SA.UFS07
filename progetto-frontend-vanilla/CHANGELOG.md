@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/hCri02/2021-23.SA.UFS07/compare/v1.6.4...v1.7.0) (2022-06-10)
+
+
+### Features
+
+* add input.jsx ([3b39a0e](https://github.com/hCri02/2021-23.SA.UFS07/commit/3b39a0e17790bac5280bd856835fb62e5d286415))
+* insert types ([cba4925](https://github.com/hCri02/2021-23.SA.UFS07/commit/cba49256228a52c48b05be31b66e944448060bc2))
+
+
+### Bug Fixes
+
+* button ([f30aefb](https://github.com/hCri02/2021-23.SA.UFS07/commit/f30aefb6840d35186e86fdf252de86a9dc0ce49b))
+* button ([474ad45](https://github.com/hCri02/2021-23.SA.UFS07/commit/474ad453deb179bb3a6a53f96bde3e9b5324634b))
+* nvmrc version ([98bd83c](https://github.com/hCri02/2021-23.SA.UFS07/commit/98bd83c87d5da238d3ff08422a220b72918888fb))
+
 ### [1.6.4](https://github.com/hCri02/2021-23.SA.UFS07/compare/v1.6.3...v1.6.4) (2022-06-06)
 
 ### [1.6.3](https://github.com/hCri02/2021-23.SA.UFS07/compare/v1.6.2...v1.6.3) (2022-05-31)
