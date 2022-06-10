@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 /**
  * Primary UI component for user interaction
  */
-export const Input = ({ placeholder, onData, type }) => {
+export const Input = ({ placeholder, onData, isValid, type, label }) => {
   function onInput (inputEvent)
   {
     console.log("input.onInput", inputEvent);
@@ -13,24 +13,37 @@ export const Input = ({ placeholder, onData, type }) => {
     }
     onData(inputEvent.target.value)
   }
+
+  const message = isValid ? "Valore buono" : "Valore cattivo";
   return (
-    <input
+    <>
+      <input id={id}
       onInput={onInput}
       type={type}
       placeholder={placeholder}
     >
-    </input>
+    </input>,
+    {label === undefined ? null : <label htmlFor={id}>{label}</label>}
+    {isValid === undefined ? null : message}
+    </>
+
   );
 };
 
 Input.propTypes = {
-  placeholder: PropTypes.string.isRequired,
+  id: PropTypes.string.isRequired,
+  placeholder: PropTypes.string,
   onData: PropTypes.func,
-  isValid: PropTypes.bool.isRequired,
+  isValid: PropTypes.bool,
   type: PropTypes.string,
+  label : PropTypes.string,
 };
 
 Input.defaultProps = {
+  id: "iRadio",
   type: 'text',
   onData: undefined,
+  isValid: undefined,
+  placeholder: undefined,
+  label: undefined,
 };
