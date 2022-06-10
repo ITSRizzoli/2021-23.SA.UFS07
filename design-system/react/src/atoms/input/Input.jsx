@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-export const Input = ({ placeholder, onData, type }) => {
+export const Input = ({ placeholder, onData, isValid, type }) => {
 
   function onInput(e) {
     console.log("input.onInput", e);
@@ -10,13 +10,19 @@ export const Input = ({ placeholder, onData, type }) => {
     }
   }
 
+  const message = isValid ? "Correct" : "Error"
+
   return (
-    <input
-      placeholder = {placeholder}
-      onInput = {onInput}
-      type = {type}
-    >
-    </input>
+    <>
+      <input
+        placeholder = {placeholder}
+        onInput = {onInput}
+        type = {type}
+      >
+      </input>
+      
+      {isValid === undefined ? null : message }
+    </>
   );
 };
 

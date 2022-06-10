@@ -17,5 +17,5 @@ const Template = (args) => <Title {...args}/>
 export const Primary = Template.bind({});
 Primary.args = {
   primary: true,
-  text: <TextItalic text='ciao'/>
+  text: 'Insert text'
 };
