@@ -2,7 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 export const Text = ({ text }) => {
-  return ( <span> {text} </span>
+  return (
+  <span>
+    {text}
+  </span>
   );
 };
 
