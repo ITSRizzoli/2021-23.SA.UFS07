@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Button } from '../src/atoms/iutton/Iutton';
+import { Input } from '../src/atoms/input/Input';
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {
