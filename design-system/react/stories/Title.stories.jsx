@@ -1,9 +1,9 @@
 import React from 'react';
 
 import { Title } from '../src/molecules/title/Title';
-import { Text } from '../../atoms/text/Text';
-import { TextBold } from '../../atoms/text-bold/TextBold';
-import { TextItalic } from '../../atoms/text-italic/TextItalic';
+import { Text } from '../src/atoms/text/Text';
+import { TextBold } from '../src/atoms/text-bold/TextBold';
+import { TextItalic } from '../src/atoms/text-italic/TextItalic';
 
 export default {
   title: 'Example/Molecules/Title',
