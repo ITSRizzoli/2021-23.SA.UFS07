@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/DaniAvolio/2021-23.SA.UFS07/compare/v1.6.5...v1.7.0) (2022-06-10)
+
+
+### Features
+
+* adding input jsx, stories etc ([82926aa](https://github.com/DaniAvolio/2021-23.SA.UFS07/commit/82926aa5184228c33e483b7fe7c5209d02ec9adc))
+
+
+### Bug Fixes
+
+* adding default button type ([361edbd](https://github.com/DaniAvolio/2021-23.SA.UFS07/commit/361edbdb011f52232fac7643a93ac74a60d27143))
+* change version ([a5d262c](https://github.com/DaniAvolio/2021-23.SA.UFS07/commit/a5d262c808da625e4a53c563b2852d7763222d25))
+* modify type of buttons ([def43c0](https://github.com/DaniAvolio/2021-23.SA.UFS07/commit/def43c05de55315c4d2608e27cd7f4b94a3d8ff8))
+
 ### [1.6.5](https://github.com/DaniAvolio/2021-23.SA.UFS07/compare/v1.6.4...v1.6.5) (2022-06-06)
 
 
