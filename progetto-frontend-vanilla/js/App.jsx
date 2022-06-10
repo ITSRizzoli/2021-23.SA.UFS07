@@ -5,7 +5,7 @@ import {Title} from "fulgencio-react/molecules/title/Title"
 
 const App = () => ( 
     <div>
-        <div>
+        <div id="title">
             <Title text={"Kosmos"} />
         </div>
 

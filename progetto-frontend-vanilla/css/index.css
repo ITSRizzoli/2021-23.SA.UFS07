@@ -5,6 +5,7 @@ body {
 }
 
 h1 {
+    font-size: large;
     color: rgb(27, 27, 27);
 }
 
@@ -13,4 +14,10 @@ img {
     box-shadow: 5em rgba(0, 0, 0, 0.2);
     height: 50em;
     width: auto;
+}
+
+#title {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
 }
