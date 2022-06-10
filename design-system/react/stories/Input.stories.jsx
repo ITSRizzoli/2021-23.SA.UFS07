@@ -23,4 +23,18 @@ Text.args = {
   onData: undefined,
   isValid: undefined,
   type: 'text',
+  id:'iText'
 };
+
+export const inputRadio = Template.bind({});
+// More on args: https://storybook.js.org/docs/react/writing-stories/args
+inputRadio.args = {
+
+  placeholder: undefined,
+  onData: undefined,
+  isValid: undefined,
+  type: 'Radio',
+  id:'iRadio',
+  label:'Button',
+};
+
