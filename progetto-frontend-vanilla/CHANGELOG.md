@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.12.3](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.12.2...v1.12.3) (2022-06-10)
+
+
+### Bug Fixes
+
+* update nvm version ([a408513](https://github.com/jimwellf/2021-23.SA.UFS07/commit/a4085131d49a0bd74bcc2d91a55570993726c9ef))
+
 ### [1.12.2](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.12.1...v1.12.2) (2022-06-10)
 
 
