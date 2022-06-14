@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/BassDrake/2021-23.SA.UFS07/compare/ds1.3.1...ds1.3.2) (2022-06-14)
+
+
+### Bug Fixes
+
+* version 1.3.1 ([651ffea](https://github.com/BassDrake/2021-23.SA.UFS07/commit/651ffeac6cb52eb6560fdd3fc9bbc716b42c2ddf))
+
 ### [1.3.1](https://github.com/BassDrake/2021-23.SA.UFS07/compare/ds1.3.0...ds1.3.1) (2022-06-14)
 
 
