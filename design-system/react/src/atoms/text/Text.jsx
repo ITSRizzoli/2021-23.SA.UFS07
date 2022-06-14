@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 export const Text = ({label}) => {
     return(
-        <span>Ciao mondo</span>
+        <span>{label}</span>
     );
 };
 
