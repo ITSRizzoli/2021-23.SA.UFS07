@@ -25,7 +25,7 @@ InputText.args = {
 };
 
 export const InputRadio = Template.bind({});
-InputText.args = {
+InputRadio.args = {
   placeholder: undefined,
   onData: undefined,
   isValid: undefined,
