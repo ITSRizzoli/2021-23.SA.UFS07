@@ -18,6 +18,6 @@ export default {
   export const Plaintext = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
 Plaintext.args = {
-    
+    label: 'Ciaoo'
 };
 
