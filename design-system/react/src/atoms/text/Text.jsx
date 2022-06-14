@@ -7,10 +7,10 @@ export const Text = ({label}) => {
     );
 };
 
-Text.prototype={
+Text.PropTypes={
     label: PropTypes.string.isRequired,
 };
 
 Text.defaultProps = {
     label: undefined,
-}
+};
