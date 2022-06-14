@@ -11,7 +11,6 @@ export const Input = ({id, placeholder, onData, isValid, type, label }) => {
     if(typeof onData === 'function') {
       onData(InputEvent.target.value);
     }
-    onData(InputEvent.target.value);
   }
 
   const message = isValid ? "Valore Corretto" : "Valore non Corretto"
