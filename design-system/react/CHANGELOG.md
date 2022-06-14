@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/hCri02/2021-23.SA.UFS07/compare/ds1.4.3...ds1.5.0) (2022-06-14)
+
+
+### Features
+
+* add input ([8001853](https://github.com/hCri02/2021-23.SA.UFS07/commit/80018537dfe0be24e20bbb69348ad6740086af9e))
+
+
+### Bug Fixes
+
+* version ([1f8e584](https://github.com/hCri02/2021-23.SA.UFS07/commit/1f8e584037931d52972b7f39ec70bb49f05f6679))
+
 ### [1.4.3](https://github.com/hCri02/2021-23.SA.UFS07/compare/ds1.4.2...ds1.4.3) (2022-06-14)
 
 
