@@ -15,7 +15,7 @@ export const Button = ({ label, onClick, type}) => {
   );
 };
 
-Button.propTypes = {
+Button.PropTypes = {
   /**
    * Button contents
    */
