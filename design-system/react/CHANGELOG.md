@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.3](https://github.com/hCri02/2021-23.SA.UFS07/compare/ds1.4.2...ds1.4.3) (2022-06-14)
+
+
+### Bug Fixes
+
+* version ([c69bb9a](https://github.com/hCri02/2021-23.SA.UFS07/commit/c69bb9a8454636a6defc4c1638a4ccfab1ecd6fe))
+
 ### [1.4.2](https://github.com/hCri02/2021-23.SA.UFS07/compare/ds1.4.1...ds1.4.2) (2022-06-14)
 
 
