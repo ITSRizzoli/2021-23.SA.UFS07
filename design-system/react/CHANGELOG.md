@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/ds1.4.0...ds1.4.1) (2022-06-14)
+
+
+### Bug Fixes
+
+* edited number version ([c445aa9](https://github.com/Marcaaa92/2021-23.SA.UFS07/commit/c445aa9fb40ea5cb7f0eb4ca81a0fe4d457eb023))
+
 ## [1.4.0](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/ds1.3.1...ds1.4.0) (2022-06-14)
 
 
