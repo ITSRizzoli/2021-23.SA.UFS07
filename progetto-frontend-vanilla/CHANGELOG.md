@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/hCri02/2021-23.SA.UFS07/compare/v1.7.2...v1.8.0) (2022-06-14)
+
+
+### Features
+
+* add input ([8001853](https://github.com/hCri02/2021-23.SA.UFS07/commit/80018537dfe0be24e20bbb69348ad6740086af9e))
+* input ([683ffb8](https://github.com/hCri02/2021-23.SA.UFS07/commit/683ffb8b061eadc9a9f4480739c9eb0a7f041a07))
+
+
+### Bug Fixes
+
+* version ([1f8e584](https://github.com/hCri02/2021-23.SA.UFS07/commit/1f8e584037931d52972b7f39ec70bb49f05f6679))
+* version ([c69bb9a](https://github.com/hCri02/2021-23.SA.UFS07/commit/c69bb9a8454636a6defc4c1638a4ccfab1ecd6fe))
+* version ([f1db406](https://github.com/hCri02/2021-23.SA.UFS07/commit/f1db406e0e090be24413b51feaf18a6cbc36031f))
+* versions ([583336f](https://github.com/hCri02/2021-23.SA.UFS07/commit/583336ffbfd17b17e1565bd1f0bf398073764afd))
+
 ### [1.7.2](https://github.com/hCri02/2021-23.SA.UFS07/compare/v1.7.1...v1.7.2) (2022-06-10)
 
 ### [1.7.1](https://github.com/hCri02/2021-23.SA.UFS07/compare/v1.7.0...v1.7.1) (2022-06-10)
