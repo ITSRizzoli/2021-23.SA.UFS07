@@ -9,7 +9,7 @@ return (
 
 }
 
-Text.PropTypes = {
+Text.propTypes = {
     label: PropTypes.string.isRequired,
 
 
