@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-export const Text = ({}) => {
+export const Text = ({ label }) => {
     return (
         <span>Ciao Mondo!</span>
     )
@@ -9,9 +9,10 @@ export const Text = ({}) => {
 
 Text.propTypes = {
 
+    label: PropTypes.string.isRequired,
+
 };
 
 Text.defaultProps = {
-    // label: 'Button',
-    // type: 'reset',
+    
 };
