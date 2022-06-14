@@ -6,7 +6,7 @@ const App = () => (
     <div>
         <h1>Hello React</h1>
         <Button label={"Avolio"} />
-        <Input id={"Input01"} />
+        <Input id={"Input01"}/>
     </div>
 );
 
