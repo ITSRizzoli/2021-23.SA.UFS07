@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/ds1.3.1...ds1.4.0) (2022-06-14)
+
+
+### Features
+
+* added radio ([2cb4173](https://github.com/Marcaaa92/2021-23.SA.UFS07/commit/2cb417374122ce9c89ca0a0cd0b514a0e7f016bf))
+
 ### [1.3.1](https://github.com/Marcaaa92/2021-23.SA.UFS07/compare/ds1.3.0...ds1.3.1) (2022-06-14)
 
 ## 1.3.0 (2022-06-14)
