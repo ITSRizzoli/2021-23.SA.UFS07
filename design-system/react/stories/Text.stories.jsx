@@ -15,5 +15,6 @@ export default {
 
   export const PlainText = Template.bind({});
   PlainText.args = {
+    label:'ciao',
 
   };
