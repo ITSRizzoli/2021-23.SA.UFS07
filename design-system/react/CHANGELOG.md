@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/BassDrake/2021-23.SA.UFS07/compare/ds1.3.0...ds1.3.1) (2022-06-14)
+
+
+### Bug Fixes
+
+* changed version of my packet ([687e0ea](https://github.com/BassDrake/2021-23.SA.UFS07/commit/687e0ea156202adf09e04b7febdcaef37c0eddba))
+* input radio ([b567254](https://github.com/BassDrake/2021-23.SA.UFS07/commit/b5672545e168b167f0a14cd55b3474a2a8f2f735))
+* version ([b637f22](https://github.com/BassDrake/2021-23.SA.UFS07/commit/b637f22f46a34be9d1c01fa9c6a6c65c1daab9dd))
+
 ## 1.3.0 (2022-06-10)
 
 
