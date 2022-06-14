@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/AstrallTrinity/2021-23.SA.UFS07/compare/ds1.4.0...ds1.4.1) (2022-06-14)
+
+
+### Bug Fixes
+
+* ciao ([ef37b4d](https://github.com/AstrallTrinity/2021-23.SA.UFS07/commit/ef37b4d651152ce3e62522defb2755f228f4e82a))
+
 ## 1.4.0 (2022-06-10)
 
 
