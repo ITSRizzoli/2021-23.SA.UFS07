@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Hello React!</title>
+
+    <script src="https://unpkg.com/react@16.14.0/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@16.13.0/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
+    <script src="https://unpkg.com/test-1-marcandalli@1.2.0/umd/atoms/button/Button.js"></script>
+  </head>
+
+  <body>
+    <h1>React 101</h1>
+    <div id="reactContainer"></div>
+
+    <script type="text/babel">
+        class Hello extends React.Component {
+            render() {
+                return (
+                  <div>
+                    <div>{`toWhat: ${this.props.toWhat}`}</div>
+                    <Button.Button label={'A bello'} onClick={() => alert('on click')} />
+                  </div>
+                );
+            }
+        }
+
+        var reactContainer = document.getElementById("reactContainer");
+        ReactDOM.render(
+            <Hello toWhat={'prop value'} />,
+            reactContainer
+        );
+    </script>
+  </body>
+</html>
