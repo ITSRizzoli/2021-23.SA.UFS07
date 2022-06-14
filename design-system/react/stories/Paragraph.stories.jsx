@@ -12,8 +12,19 @@ export default {
   },
 };
 
-const Template = (args) => <Paragraph {...args} />
+const Template = (args) => <Paragraph {...args}></Paragraph>
 
 export const Primary = Template.bind({});
 Primary.args = {
+  children:
+    <>
+      <Text text={'label'}> </Text>
+      <TextBold text={'ciao'}></TextBold>
+    </>
+};
+
+export const Secondary = Template.bind({});
+const a = Text({text: 'ciaociao'});
+Secondary.args = {
+  children: a
 };
