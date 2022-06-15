@@ -17,6 +17,12 @@ export default {
   export const Plainparagrafo = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
 Plainparagrafo.args = {
-    children: <Text label={'labdsdel'}></Text>
+    children: <><Text label={'labdsdel'}></Text><Text label={'daniele'}></Text></>
+    
+};
+
+export const Plain2paragrafo = Template.bind({});
+const a= Text(); 
+Plain2paragrafo.args = {
     
 };
