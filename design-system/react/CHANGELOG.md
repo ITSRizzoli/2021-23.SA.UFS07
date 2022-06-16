@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/GabZulo/2021-23.SA.UFS07/compare/ds1.5.2...ds1.6.0) (2022-06-16)
+
+
+### Features
+
+* label added ([73aaa8a](https://github.com/GabZulo/2021-23.SA.UFS07/commit/73aaa8aaad3624c31a9870a3025b87e742768468))
+* package installed ([3b9ad43](https://github.com/GabZulo/2021-23.SA.UFS07/commit/3b9ad4378ee3c7130d73f0e95f97a3d63944fe33))
+* paragraph created ([03e6f55](https://github.com/GabZulo/2021-23.SA.UFS07/commit/03e6f557f4a8e16cdc79818a2ff1d68dfdc60843))
+* text created ([f101b9e](https://github.com/GabZulo/2021-23.SA.UFS07/commit/f101b9e2e0f88ac9d20cca07e1bfa3dea463b23c))
+
+
+### Bug Fixes
+
+* button changed ([230d3ff](https://github.com/GabZulo/2021-23.SA.UFS07/commit/230d3fff5e361177dc3cda810e0f29ea8b9ef07f))
+* Text changed ([6be91de](https://github.com/GabZulo/2021-23.SA.UFS07/commit/6be91de9fccbbaf7dc800e6be9a09f6134362cd1))
+
 ### [1.5.2](https://github.com/GabZulo/2021-23.SA.UFS07/compare/ds1.5.1...ds1.5.2) (2022-06-14)
 
 ### [1.5.1](https://github.com/GabZulo/2021-23.SA.UFS07/compare/ds1.5.0...ds1.5.1) (2022-06-14)
