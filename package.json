@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  },
+  "dependencies": {
+    "storybook": "^6.5.5"
+  }
+}
