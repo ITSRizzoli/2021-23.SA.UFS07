@@ -17,6 +17,15 @@ export default {
   export const PlainParagraph = Template.bind({});
 
   PlainParagraph.args = {
-    children: <Text label = {'label'}></Text>
+    children: <>
+    <Text label = {'label'}></Text> <Text label = {'ciao'}></Text>
+    </>
+
+  };
+
+  export const Plain2Paragrpah = Template.bind({});
+  const a = Text ({label:'ciaoo!'});
+  Plain2Paragrpah.args = {
+    children: a
 
   };
