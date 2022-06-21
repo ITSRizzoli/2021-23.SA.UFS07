@@ -27,3 +27,4 @@ Plain2Paragrafo.args = {
     children: a
     //label: 'Prova',
 };
+
