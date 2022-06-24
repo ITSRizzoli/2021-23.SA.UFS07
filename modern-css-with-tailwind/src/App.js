@@ -24,9 +24,9 @@ function App() {
           <img src={music} size="100x100" alt="Logo" />;
         </div>
         <div>
-          <h1>Welcome to NorthBy</h1>
-          <h2>A premium in sight and sound</h2>
-          <button>Learn More</button>
+          <h1 class="bg-yellow-100 hover:bg-red-500 transform transition duration-500 hover:scale-110">Welcome to NorthBy</h1>
+          <h2 class="bg-yellow-100 hover:bg-green-500 transform transition duration-500 hover:scale-110">A premium in sight and sound</h2>
+          <button class="bg-yellow-100 hover:bg-blue-500 transform transition duration-500 hover:scale-110">Learn More</button>
         </div>
       </div>
 
@@ -35,12 +35,12 @@ function App() {
       <br/><br/>
 
 
-      <div class="flex justify-center bg-purple-700 md:bg-red-700 md:text-4xl">
-        <div class="mx-4 order-last hidden md:block">
+      <div class="flex justify-center bg-purple-700 md:bg-red-700 md:text-4xl animate-bounce hover:shadow-2xl">
+        <div class="mx-4 order-last hidden md:block animate-spin hover:animate-none">
           <img src={music} size="100x100" alt="Logo" />;
         </div>
-        <div class="mx-4 self-center">
-          <h1 class="text-yellow-400">Testo speciale</h1>
+        <div class="mx-4 self-center animate-bounce">
+          <h1 class="text-yellow-400 animate">Testo speciale</h1>
           <h2>Prevenire è meglio che curare</h2>
           <button>Learn More</button>
         </div>
