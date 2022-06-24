@@ -35,13 +35,13 @@ function App() {
       <br/><br/>
 
 
-      <div class="flex justify-center">
-        <div class="mx-4 order-last">
+      <div class="flex justify-center bg-purple-700 md:bg-red-700 md:text-4xl">
+        <div class="mx-4 order-last hidden md:block">
           <img src={music} size="100x100" alt="Logo" />;
         </div>
         <div class="mx-4 self-center">
-          <h1>Welcome to NorthBy</h1>
-          <h2>A premium in sight and sound</h2>
+          <h1 class="text-yellow-400">Testo speciale</h1>
+          <h2>Prevenire è meglio che curare</h2>
           <button>Learn More</button>
         </div>
       </div>
