@@ -12,7 +12,8 @@ module.exports = {
   theme: {
     extend: {
       screens: { 
-        md:'800px'
+        md:'800px',
+        xl: '1230px'
       },
       colors:{
           pink:{
@@ -23,7 +24,9 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      animation:['hover']
+    },
   },
   plugins: [],
 }

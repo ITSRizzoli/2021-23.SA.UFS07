@@ -24,9 +24,9 @@ function App() {
           <img src={music} size="100x100" alt="Logo" />;
         </div>
         <div>
-          <h1>Welcome to NorthBy</h1>
+          <h1 class="text-6x1 text-blue-700 transform transition duration-1000 hover:scale-110 hover:shadow-lg">Welcome to NorthBy</h1>
           <h2>A premium in sight and sound</h2>
-          <button>Learn More</button>
+          <button class="my-4 px-4 py-2 transition-colors bg-purple-500 border-2 border-black rounded-lg hover:bg-yellow-400 duration-500 delay-150">Bottone</button>
         </div>
       </div>
 
@@ -37,12 +37,12 @@ function App() {
 
       <div class="flex justify-center bg-red-400 md:bg-indigo-400 md:text-8xl xl:bg-pink-400">
         <div class="mx-4 order-last hidden md:block text">
-          <img src={music} size="100x100" alt="Logo" />
+          <img src={music} size="100x100" alt="Logo" class="hover:animate-ping" />
         </div>
         <div class="mx-4 self-center">
           <h1>Sono il secondo</h1>
           <h2>esempio di tailwind</h2>
-          <button>Learn More</button>
+          <button >Learn More</button>
         </div>
       </div>
 
