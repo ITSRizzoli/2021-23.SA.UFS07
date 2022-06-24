@@ -16,13 +16,13 @@ module.exports = {
       },
       colors: {
         yellow: {
-          '300':'#43gf43'
+          '300' : '#34fg53'
         }
       }
     },
   },
   variants: {
-    extend: {},
+    extend: {}
   },
   plugins: [],
 }

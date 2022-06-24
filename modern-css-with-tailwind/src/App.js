@@ -21,12 +21,12 @@ function App() {
 
       <div class="flex">
         <div>
-          <img src={music} size="100x100" alt="Logo" />;
+          <img class="animate-ping" src={music} size="100x100" alt="Logo" />;
         </div>
         <div>
-          <h1>Welcome to NorthBy</h1>
+          <h1 class="bg-green-500 hover:bg-yellow-500">Welcome to NorthBy</h1>
           <h2>A premium in sight and sound</h2>
-          <button>Learn More</button>
+          <button class="transition-colors bg-pink-500 hover:bg-green-300 duration-1000">Learn More</button>
         </div>
       </div>
 
@@ -37,12 +37,12 @@ function App() {
 
       <div class="flex justify-center bg-green-500 md:bg-blue-600">
         <div class="mx-4 order-last hidden md:block">
-          <img src={music} size="100x100" alt="Logo" />;
+          <img class="hover:animate-bounce" src={music} size="100x100" alt="Logo" />;
         </div>
         <div class="mx-4 self-center">
           <h1 class="text-yellow-600">Welcome to NorthBy</h1>
           <h2>prova prova</h2>
-          <button>Learn More</button>
+          <button class="transform transition duration-1000 hover:scale-150">Learn More</button>
         </div>
       </div>
 
