@@ -1,3 +1,4 @@
 .vscode
 *.ignore.*
 node_modules
+Design-System/React/build-storybook.log
