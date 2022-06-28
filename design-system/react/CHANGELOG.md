@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/GabZulo/2021-23.SA.UFS07/compare/ds1.6.0...ds1.7.0) (2022-06-28)
+
+
+### Features
+
+* tailwind css book samples ([978b8b9](https://github.com/GabZulo/2021-23.SA.UFS07/commit/978b8b9a9fcff7732168c1ec4cfa8be4cd67e297))
+
 ## [1.6.0](https://github.com/GabZulo/2021-23.SA.UFS07/compare/ds1.5.2...ds1.6.0) (2022-06-16)
 
 
