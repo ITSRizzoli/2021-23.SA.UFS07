@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/hCri02/2021-23.SA.UFS07/compare/ds1.5.2...ds1.6.0) (2022-06-28)
+
+
+### Features
+
+* add text ([5fe8994](https://github.com/hCri02/2021-23.SA.UFS07/commit/5fe8994194b15e5e3926a683a482b8797a2cb5bf))
+* added paragraph ([b494879](https://github.com/hCri02/2021-23.SA.UFS07/commit/b49487961bf81de36f5df3dabc96b856d8c9cb63))
+* added tailwind.config.js ([db56b31](https://github.com/hCri02/2021-23.SA.UFS07/commit/db56b3104dca3c89cedd894ba6a18039fdc44783))
+* tailwind ([1fe21db](https://github.com/hCri02/2021-23.SA.UFS07/commit/1fe21db5dc57d1ee392ce123cec9df5b540cc6aa))
+* tailwind css book samples ([68e7109](https://github.com/hCri02/2021-23.SA.UFS07/commit/68e7109514007c30f82471a8f406791be104568a))
+
+
+### Bug Fixes
+
+* added label ([905df41](https://github.com/hCri02/2021-23.SA.UFS07/commit/905df412cd21bc871a9bbd846e70562fd3cbd5b4))
+* babelrc ([873f08b](https://github.com/hCri02/2021-23.SA.UFS07/commit/873f08b9f91ac72ea1fde20d1e43a260fe37e4e8))
+* change color ([d747bf7](https://github.com/hCri02/2021-23.SA.UFS07/commit/d747bf7fd9fb371331b06a163176f4b49f8dd965))
+* colors&animation ([4732e3f](https://github.com/hCri02/2021-23.SA.UFS07/commit/4732e3f7525636704f63b0cc37f9632cd51432ff))
+* preview & Button ([081b083](https://github.com/hCri02/2021-23.SA.UFS07/commit/081b0831bce350d3dc22af47eebb13c650856cbd))
+
 ### [1.5.2](https://github.com/hCri02/2021-23.SA.UFS07/compare/ds1.5.1...ds1.5.2) (2022-06-14)
 
 
