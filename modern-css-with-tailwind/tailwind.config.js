@@ -1,0 +1,32 @@
+/***
+ * Excerpted from "Modern CSS with Tailwind",
+ * published by The Pragmatic Bookshelf.
+ * Copyrights apply to this code. It may not be used to create training material,
+ * courses, books, articles, and the like. Contact us if you are in doubt.
+ * We make no guarantees that this code is fit for any purpose.
+ * Visit http://www.pragmaticprogrammer.com/titles/tailwind for more book information.
+***/
+module.exports = {
+  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/*.html'],
+  darkMode: false, // or 'media' or 'class'
+  theme: {
+    extend: {
+      animation: ['hover', 'group-hover'],
+      screens:{
+        md:'800px'
+      },
+      colors:{
+        "purple":{
+          "300":"#33ff99"
+        }
+      }
+      
+    },
+  },
+  variants: {
+    extend: {
+
+    },
+  },
+  plugins: [],
+}
