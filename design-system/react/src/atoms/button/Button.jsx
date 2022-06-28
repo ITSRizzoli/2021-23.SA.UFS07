@@ -7,6 +7,7 @@ import PropTypes from 'prop-types';
 export const Button = ({ label, onClick, type }) => {
   return (
     <button
+      tw="hover:border-black"
       onClick={onClick}
       type={type}
     >
