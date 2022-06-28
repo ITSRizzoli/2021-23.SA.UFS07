@@ -1,0 +1,14 @@
+h3 {
+    color: #080C2F;
+    font-family: 'Poppins', sans-serif;
+    width: max-content;
+    font-size: 44px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#week_summary {
+    margin-top: 4vh;
+    text-align: center;
+    width: 100%;
+}

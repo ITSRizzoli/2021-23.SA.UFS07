@@ -1,0 +1,67 @@
+.active {
+    filter: brightness(0) saturate(100%) invert(73%) sepia(47%) saturate(5648%) hue-rotate(187deg) brightness(102%) contrast(102%);
+
+}
+
+.default {
+    filter: brightness(0) saturate(100%) invert(7%) sepia(30%) saturate(4683%) hue-rotate(224deg) brightness(81%) contrast(105%);
+    opacity: .8;
+}
+
+#home {
+    width: 78px;
+}
+
+#pantry {
+    width: 86px;
+}
+
+#recipes {
+    width: 57px;
+}
+
+#account {
+    width: 54px;
+}
+
+#timer {
+    width: 48px;
+}
+
+#peso {
+    width: 66px;
+}
+
+#quantità {
+    width: 30px;
+}
+
+#gluten_free {
+    height: 40px;
+    opacity: 1 !important;
+    filter: none !important;
+}
+
+#vegan {
+    height: 24px;
+    opacity: 1 !important;
+    margin-top: 6px;
+    filter: none !important;
+    margin-left: 3px;
+}
+
+#settings {
+    width: 70px;
+}
+
+#edit {
+    height: 24px;
+    opacity: 1 !important;
+    margin-top: 6px;
+    filter: none !important;
+    margin-left: 16px;
+}
+
+#search {
+    width: 60px;
+}

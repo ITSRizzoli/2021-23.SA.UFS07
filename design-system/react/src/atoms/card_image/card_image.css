@@ -1,0 +1,17 @@
+img {
+    filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, .5));
+}
+
+#uova {
+    width: 212px;
+}
+
+.ricetta {
+    filter: none !important;
+    width: 252px !important;
+}
+
+#target_icon {
+    width: 40px;
+    margin-right: 14px;
+}

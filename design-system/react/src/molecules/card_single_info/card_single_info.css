@@ -1,0 +1,8 @@
+.card_single_info {
+    display: flex;
+    align-items: center;
+}
+
+.card_single_info img {
+    margin-right: 10px;
+}

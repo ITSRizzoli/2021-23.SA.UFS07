@@ -1,0 +1,14 @@
+.card_image_container {
+    border-radius: 15px;
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+
+.card_image_container img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 160px;
+}
