@@ -12,7 +12,7 @@ import './App.css';
 function App() {
   return (
     <>
-      <h1>Welcome to NorthBy</h1>
+      <h1 class="hover:text-red-800">Welcome to NorthBy</h1>
 
       <br/><br/>
       <hr/ >
@@ -35,12 +35,12 @@ function App() {
       <br/><br/>
 
 
-      <div class="flex justify-center">
-        <div class="mx-4 order-last">
-          <img src={music} size="100x100" alt="Logo" />;
+      <div class="flex justify-center bg-purple-800 md:bg-blue-800 md:text-yellow-400 animate-pulse" >
+        <div class="mx-4 order-last hidden md:block">
+          <img class="" src={music} size="100x100" alt="Logo" />
         </div>
         <div class="mx-4 self-center">
-          <h1>Welcome to NorthBy</h1>
+          <h1 class= "text-yellow-600">Welcome to NorthBy</h1>
           <h2>A premium in sight and sound</h2>
           <button>Learn More</button>
         </div>
@@ -52,7 +52,7 @@ function App() {
 
       <div class="flex justify-center bg-gray-300">
         <div class="mx-4 order-last">
-          <img src={music} size="100x100" alt="Logo" />;
+          <img src={music} size="100x100" alt="Logo" />
         </div>
         <div class="mx-4 self-center text-center">
           <h1 class="text-6xl font-bold text-blue-700">Welcome to NorthBy</h1>
